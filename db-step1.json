@@ -1,0 +1,39 @@
+{
+  "departments": [
+    {
+      "id": "1",
+      "name": "Lending"
+    },
+    {
+      "id": "2",
+      "name": "Funding"
+    },
+    {
+      "id": "3",
+      "name": "Operations"
+    },
+    {
+      "id": "4",
+      "name": "Engineering"
+    }
+  ],
+  "basicInfo": [
+    {
+      "id": "1639",
+      "fullName": "Rizki Malem",
+      "email": "rizkymalm@gmail.com",
+      "department": "Engineering",
+      "role": "Admin",
+      "employeeId": "ENG-001"
+    },
+    {
+      "id": "fc94",
+      "fullName": "Amajida Zahirah",
+      "email": "azahirah@gmail.com",
+      "department": "Operations",
+      "role": "Engineer",
+      "employeeId": "OPE-001"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
